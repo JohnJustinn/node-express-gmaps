@@ -1,0 +1,24 @@
+{
+  "name": "express-gmaps",
+  "version": "1.0.0",
+  "description": "Using the google maps api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnJustinn/node-express-gmaps.git"
+  },
+  "author": "John Justinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnJustinn/node-express-gmaps/issues"
+  },
+  "homepage": "https://github.com/JohnJustinn/node-express-gmaps#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-fetch": "^2.0.0"
+  }
+}
